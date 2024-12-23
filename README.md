@@ -15,6 +15,10 @@
 
   main.jpynb 、Place the data into the corresponding folder and run main.jpynb to train the MGCA model.
 
+  Dataset: data:https://msnews.github.io/#getting-start
+  KG:https://drive.google.com/file/d/1mJuB9OEDY7CNSz8Lfko1IrnuxHJoPu-L/view?usp=sharing
+  embedding:https://nlp.stanford.edu/projects/glove/
+
   ---
 
   ---
