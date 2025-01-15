@@ -40,4 +40,4 @@ Note:
 
 2.The reason the project uses NVIDIA TensorFlow is that the experimental environment is equipped with an RTX 3090 GPU, which is not compatible with the official version of TensorFlow. Therefore, if the version of TensorFlow you are using is different from mine, you may encounter issues.
 
-3.Due to potential copyright issues, you can obtain graph structre, pre-trained transE embeddings from me via email(202211070511@edu.sdust.cn).
+3.Due to potential license issues, I will not publicly release  graph structre and pre-trained transE embeddings, but I can privately share them with you. Please send an email to me to query these data.(202211070511@edu.sdust.cn).
