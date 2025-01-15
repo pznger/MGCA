@@ -29,5 +29,7 @@ If you encounter any issues while setting up the project environment, feel free 
 
 Note: 
 1.The example in the case study is not a impression obtained from the preprocessed test set, so you cannot find this impression in the tsv file. Instead, they are constructed by sampling news and entity relationships from the dataset. This approach allows us to obtain the most typical examples to illustrate the applicability of the model. To avoid any misunderstanding, it needs to be clarified here.
+
 2.The reason the project uses NVIDIA TensorFlow is that the experimental environment is equipped with an RTX 3090 GPU, which is not compatible with the official version of TensorFlow. Therefore, if the version of TensorFlow you are using is different from mine, you may encounter issues.
+
 3.Due to potential copyright issues, you can obtain graph structre, pre-trained transE embeddings from me via email(202211070511@edu.sdust.cn).
