@@ -1,6 +1,9 @@
 # MGCA
+
 ***nvidia-tensorflow***         1.15.4+nv20.12
+
 ***keras***                      2.2.5
+
 If you encounter any issues while setting up the project environment, feel free to consult me.
 
 
