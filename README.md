@@ -22,7 +22,7 @@ If you encounter any issues while setting up the project environment, feel free 
 
   data:https://msnews.github.io/#getting-start
 
-  KG:Please read the note in the text below
+  KG:The detailed construction algorithm of the KG can be found in this paper https://arxiv.org/pdf/1910.11494.pdf .If you want to obtain it directly, please refer to the note section at the bottom of this document.
   
   embedding:https://nlp.stanford.edu/projects/glove/
 
