@@ -20,7 +20,7 @@ If you encounter any issues while setting up the project environment, feel free 
 
   Dataset:
 
-  data:https://msnews.github.io/#getting-start
+  data:Unzip MINDSmall.rar to get the processed dataset.
 
   KG:The detailed construction algorithm of the KG can be found in this paper https://arxiv.org/pdf/1910.11494.pdf .If you want to obtain it directly, please refer to the note section at the bottom of this document.
   
