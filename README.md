@@ -15,8 +15,12 @@ If you encounter any issues while setting up the project environment, feel free 
 
   Place data into the corresponding folder and run main.jpynb to train the MGCA model.
 
-  Dataset: data:https://msnews.github.io/#getting-start
+  Dataset:
+
+  data:https://msnews.github.io/#getting-start
+
   KG:Please read the note in the text below
+  
   embedding:https://nlp.stanford.edu/projects/glove/
 
   ---
