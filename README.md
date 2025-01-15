@@ -36,7 +36,7 @@ If you encounter any issues while setting up the project environment, feel free 
 
 Note: 
 
-1.The example in the case study is not a impression obtained from the preprocessed test set, so you cannot find this impression in the tsv file. Instead, they are constructed by sampling news in MIND dataset. This approach allows us to obtain the best typical examples to illustrate the applicability of the model. To avoid any misunderstanding, it needs to be clarified here.
+1.The example in the case study is not a impression obtained from the preprocessed test set, so you cannot find this impression in the tsv file. Instead, they are constructed by sampling news in MIND dataset. It is reasonably constructed based on actual situations and is representative and typical.This approach allows us to obtain the best typical examples to illustrate the applicability of the model.The data used for training and testing model both come from the MIND dataset, and the data partitioning method is consistent with that in papers of the same field. To avoid any misunderstanding, it needs to be clarified here.
 
 2.The reason the project uses NVIDIA TensorFlow is that the experimental environment is equipped with an RTX 3090 GPU, which is not compatible with the official version of TensorFlow. Therefore, if the version of TensorFlow you are using is different from mine, you may encounter issues.
 
