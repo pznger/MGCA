@@ -20,6 +20,8 @@
   embedding:https://nlp.stanford.edu/projects/glove/
 
   ---
+  Here is an example of the project structure.
+![1736903559573](https://github.com/user-attachments/assets/ed9dd4cc-2d64-4005-be75-6084d4eacc20)
 
   ---
 
@@ -27,7 +29,8 @@
 
   ---
 
-  
+Note: The example in the case study is not a impression obtained from the preprocessed test set, so you cannot find this impression in the tsv file. Instead, they are constructed by sampling news and entity relationships from the dataset. This approach allows us to obtain the most typical examples to illustrate the applicability of the model. 
+
 
   
 
