@@ -38,6 +38,6 @@ Note:
 
 1.The example in the case study is not a impression obtained from the preprocessed test set, so you cannot find this impression in the tsv file. Instead, they are constructed by sampling news in MIND dataset. It is reasonably constructed based on actual situations and is representative and typical.This approach allows us to obtain the best typical examples to illustrate the applicability of the model.To avoid any misunderstanding, it needs to be clarified here.
 
-2.The reason the project uses NVIDIA TensorFlow is that the experimental environment is equipped with an RTX 3090 GPU, which is not compatible with the official version of TensorFlow. Therefore, if the version of TensorFlow you are using is different from mine, you may encounter issues.
+2.The reason the project uses NVIDIA TensorFlow is that the experimental environment is equipped with an RTX 3090 GPU, which is not compatible with the official version of TensorFlow. Therefore, if the version of TensorFlow you are using is different from mine, you may encounter issues.If you encounter any problems during the environment configuration process, you can refer to:https://blog.csdn.net/qq_73664776/article/details/135888520?spm=1001.2014.3001.5502
 
 3.Due to potential license issues, I will not publicly release  graph structre and pre-trained transE embeddings, but I can privately share them with you. Please send an email to me to query these data.(202211070511@edu.sdust.cn).
